@@ -88,7 +88,10 @@ Berikut adalah hasil eksekusi program dari Modul 11 yang memuat ketiga project:
 
 | Halaman Home | Halaman Email (MyApp11_2) | Dialog Tambah Data |
 |:---:|:---:|:---:|
-| *(Screenshot halaman Home dengan tombol navigasi)* | *(Screenshot ListView Riwayat Tes)* | *(Screenshot form dialog AlertDialog)* |
+| <img width="1470" height="921" alt="image" src="https://github.com/user-attachments/assets/cf98748d-9b54-43ce-b56e-3bf8b9993b45" />
+ | <img width="1470" height="918" alt="image" src="https://github.com/user-attachments/assets/801e4ca9-b914-4aa6-a6c6-e7b2c7cb0982" />
+ | <img width="1470" height="915" alt="image" src="https://github.com/user-attachments/assets/4f2fe68b-aa3f-4029-b6b4-7193c198bdf1" />
+ |
 
 </div>
 
