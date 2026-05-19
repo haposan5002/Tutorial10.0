@@ -9,7 +9,7 @@
 
   <br />
 
-  <h3>MODUL - 11<br>
+  <h3>Tutorial 10.1<br>
     Praktikum PageView, BottomNavigationBar, dan Dialog Form Flutter
   </h3>
 
